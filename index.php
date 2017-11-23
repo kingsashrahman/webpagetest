@@ -7,7 +7,9 @@
     
     <body>
        <h1>Computer science fifths group example </h1>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+       <p>123</p>
+       <h1>showing sixth how c9.io to github to heroku</h1>
+       <h2>We have milestone for the CW design to be handed in by 7th of December </h2>
      
     </body>
 </html>
